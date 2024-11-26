@@ -1,8 +1,26 @@
 {
-    "name": "SOL Pupy coin",
-    "symbol": "SOLPUP",
-    "description": "The official RICH token on Solana.",
-    "image": "https://github.com/ratheakh/ratheakh.github.io/blob/main/SOLPup.png",
-    "external_url": "https://ratheakh.github.io/",
-    "decimals": 9
+  "name": "SOL Pupy coin",
+  "symbol": "$Spup",
+  "description": "SOLPup is a meme cryptocurrency on the Solana blockchain with a maximum supply of 5,000,000,000 tokens.",
+  "image": "https://github.com/ratheakh/ratheakh.github.io/blob/main/SOLPup.png",
+  "external_url": "https://ratheakh.github.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "5,000,000,000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/ratheakh/ratheakh.github.io/blob/main/SOLPup.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
 }
